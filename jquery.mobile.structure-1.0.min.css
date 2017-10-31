@@ -1,0 +1,275 @@
+/*! jQuery Mobile v1.0 jquerymobile.com | jquery.org/license */
+@charset "utf-8";
+/* CSS Document */
+*
+{
+	padding: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	Margin:0px;
+}
+
+Body{Background-Image:url(Imagess/10_8a14954f620b45a781d497aab06a1913.jpg);}
+#menu ul
+{
+	list-style:none;
+	
+}
+#menu ul li
+{background-color:red;
+border-style:ridge;
+border-color:#FFF;
+width:92%; 
+height:80px;
+line-height:80px;
+text-align:center;
+margin:auto;
+font-size:30px;
+font-style:italic;
+overflow:visible;
+margin-top:10%;
+
+
+
+}
+#menu ul li a
+{
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+#menu ul li a:hover
+{
+	background-color:#0C3;
+	overflow:visible;
+	
+	
+}
+#menu ul ul
+{
+
+	
+	margin-left:100px;
+}
+
+
+
+
+
+
+
+#mmenu ul
+{
+	list-style:none;
+	position:absolute;
+}
+#mmenu ul li
+{background-color:red;
+border-color:#FC0;
+border-style:ridge;
+border-radius:10px;
+width:136px; 
+height:86px;
+line-height:86px;
+text-align:center;
+display:inline-block;
+Float:left;
+Margin-left:10%;
+font-size:12px;
+margin-top:25px;
+}
+#mmenu ul li a
+{
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+#mmenu ul li a:hover
+{
+	background-color:#0C3;
+	overflow:visible;
+	border-radius:10px;
+	
+}
+#mmenu ul ul
+{
+
+	
+	
+}
+
+
+
+
+
+
+
+#amenu ul
+{
+	list-style:none;
+	position:relative;
+	}
+#amenu ul li
+{
+	background-color:Blue;
+	border-color: #FC0;
+	border-style: ridge;
+	border-radius:10px;
+	width: 136px;
+	height: 86px;
+	line-height: 86px;
+	text-align: center;
+	display: block;
+	Float: Right;
+	Margin-Right:10.9%;
+	position: relative;
+	margin-top: 25px;
+	
+}
+#amenu ul li a
+{
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+#amenu ul li a:hover
+{
+	background-color:#F90;
+	overflow:visible;
+	border-radius:10px;
+	
+	
+}
+#amenu ul ul
+{
+
+	
+	margin-left:100px;
+}
+#amenu ul li:hover > ul
+{
+	
+
+}
+
+
+
+
+
+
+	
+.rrrr{
+	
+	width:150px;
+	margin:auto;
+	margin-top:25px;
+	border-Radius:10px;
+	border-color:#F90;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	#samenu ul
+{
+	list-style:none;
+	position:relative;
+	}
+#samenu ul li
+{
+	background-color:#900;
+	border-color:#FF0;
+	border-style:outset;
+	border-radius:10px;
+	width: 300px;
+	height: 50px;
+	line-height:50px;
+	text-align: center;
+	display: block;
+	Float: Right;
+	Margin-Right:8%;
+	position: relative;
+	margin-top:50%;
+	font-size:25px;
+}
+#samenu ul li a
+{
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+#samenu ul li a:hover
+{
+	background-color:#F90;
+	overflow:visible;
+	border-radius:10px;
+	color:#00F;
+	
+	
+}
+#samenu ul ul
+{
+
+	
+	margin-left:100px;
+}
+	
+	
+
+
+	
+.footer
+{background-color:#FFF;
+
+border-color:#FFF;
+width:100%; 
+height:35px;
+line-height:35px;
+text-align:center;
+margin:auto;
+font-size:12px;
+font-style:italic;
+overflow:visible;
+margin-top:35%;
+
+
+
+}
+.footer,h8
+{background-color:#FFF;
+
+border-color:#FFF;
+width:100%; 
+height:35px;
+line-height:35px;
+text-align:center;
+margin:auto;
+font-size:12px;
+font-style:italic;
+overflow:visible;
+margin-top:245px;
+
+
+
+}
